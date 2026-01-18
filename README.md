@@ -211,9 +211,10 @@ s3a://analytics/gold/dim_doenca/
 
 ![MinIO Bronze](Captura de tela de 2026-01-17 22-26-57.png)
 
-#### Estrutura do Projeto e README
+<img width="1364" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04a7cc51-3766-4ffd-acfa-833614bb7e8f" />
 
-![Estrutura do Projeto](Captura de tela de 2026-01-17 22-27-45.png)
+#### Estrutura do Projeto e README
+<img width="1927" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ddb452fc-980c-4aad-a3c1-12f8499e3e85" />
 ## Autor
 
 Projeto desenvolvido para estudos avançados de Engenharia de Dados e Analytics aplicado à Saúde.
