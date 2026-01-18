@@ -220,9 +220,5 @@ s3a://analytics/gold/dim_doenca/
 [![Instagram](https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-lucio-pereira/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
-
-
-
-![Linkedin](https://www.linkedin.com/in/mauro-lucio-pereira-/)
-Projeto desenvolvido para estudos avançados de Engenharia de Dados e Analytics aplicado à Saúde.
+#### Projeto desenvolvido para estudos avançados de Engenharia de Dados e Analytics aplicado à Saúde.
 
