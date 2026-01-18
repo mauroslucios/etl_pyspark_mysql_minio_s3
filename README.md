@@ -1,5 +1,21 @@
 # Analytics ETL – Saúde
 
+
+## Arquitetura de Dados
+
+```mermaid
+graph TD
+    A[MySQL<br/>Sistema Transacional] -->|Extract| B[Bronze<br/>MinIO / Parquet]
+
+    B -->|Transform<br/>PySpark| C[Silver<br/>Dados Tratados]
+
+    C -->|Agregações<br/>Modelagem Analítica| D[Gold<br/>Fatos e Dimensões]
+
+    D --> E[BI / Dashboards]
+    D --> F[Data Science]
+    D --> G[APIs Analíticas]
+```
+
 ## Visão Geral
 Este projeto implementa um **pipeline de dados analítico** seguindo boas práticas de Engenharia de Dados, utilizando **MySQL**, **PySpark**, **MinIO (S3 compatível)** e arquitetura **Medallion (Bronze, Silver e Gold)**.
 
@@ -191,6 +207,13 @@ s3a://analytics/gold/dim_doenca/
 
 ---
 
+#### Camada Bronze no MinIO
+
+![MinIO Bronze](Captura de tela de 2026-01-17 22-26-57.png)
+
+#### Estrutura do Projeto e README
+
+![Estrutura do Projeto](Captura de tela de 2026-01-17 22-27-45.png)
 ## Autor
 
 Projeto desenvolvido para estudos avançados de Engenharia de Dados e Analytics aplicado à Saúde.
