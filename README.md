@@ -213,6 +213,7 @@ s3a://analytics/gold/dim_doenca/
 
 #### Estrutura do Projeto e README
 <img width="1927" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ddb452fc-980c-4aad-a3c1-12f8499e3e85" />
+
 ## Autor
 - Mauro Lucio Pereira da Silva
 ## Conecte-se
