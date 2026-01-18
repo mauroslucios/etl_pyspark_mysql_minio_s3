@@ -214,6 +214,15 @@ s3a://analytics/gold/dim_doenca/
 #### Estrutura do Projeto e README
 <img width="1927" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ddb452fc-980c-4aad-a3c1-12f8499e3e85" />
 ## Autor
+- Mauro Lucio Pereira da Silva
+## Conecte-se
 
+[![Instagram](https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=white)](https://www.instagram.com/@luciospsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-lucio-pereira/)
+[![Facebook](https://img.shields.io/badge/Facebook-000?logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
+
+
+
+![Linkedin](https://www.linkedin.com/in/mauro-lucio-pereira-/)
 Projeto desenvolvido para estudos avançados de Engenharia de Dados e Analytics aplicado à Saúde.
 
