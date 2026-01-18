@@ -209,8 +209,6 @@ s3a://analytics/gold/dim_doenca/
 
 #### Camada Bronze no MinIO
 
-![MinIO Bronze](Captura de tela de 2026-01-17 22-26-57.png)
-
 <img width="1364" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04a7cc51-3766-4ffd-acfa-833614bb7e8f" />
 
 #### Estrutura do Projeto e README
